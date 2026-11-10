@@ -1,0 +1,36 @@
+# ---------- 依赖环境与模型权重（体积大 / 受第三方许可限制，绝不可入库）----------
+envs/
+mamba/
+models/
+repos/
+
+# ---------- 输入素材（个人实拍照片及其派生 mask，不入公开仓库）----------
+work/**/scene/*.png
+work/**/scene/*.jpg
+work/**/kpts/
+work/**/fit/
+
+# ---------- 中间产物：全部可由 scripts/ 重新生成 ----------
+work/**/*.npz
+work/**/*.npy
+work/**/tex/
+work/**/v2/*.png
+work/**/v3/*.png
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---------- 编辑器 / 系统 ----------
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- 临时 ----------
+*.log
+*.tmp

@@ -1,0 +1,23 @@
+{
+  "sim_frames": 46,
+  "sim_elapsed_sec": 65.32,
+  "total_elapsed_sec": 72.28,
+  "shirt_verts": 6709,
+  "shirt_faces": 12927,
+  "shirt_max_edge_mm": 49.61,
+  "shirt_gap_mm_p10_p50_p90_max": [
+    8.0,
+    9.93,
+    22.17,
+    85.36
+  ],
+  "shorts_verts": 3086,
+  "shorts_faces": 5896,
+  "shorts_max_edge_mm": 59.33,
+  "shorts_gap_mm_p10_p50_p90_max": [
+    7.54,
+    8.5,
+    13.24,
+    31.22
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "verts": 73639,
+  "faces": 147274,
+  "head_tilt_deg": 38.52,
+  "head_ortho_err": 0.0,
+  "max_inflate_mm": 20.73,
+  "wrist_inflate_mm": 0.0,
+  "region_ratios": {
+    "skin": 0.7769,
+    "shirt": 0.0611,
+    "shorts": 0.0227,
+    "sock_shoe": 0.1393
+  }
+}
