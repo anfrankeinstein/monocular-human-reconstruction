@@ -10,7 +10,8 @@ from pathlib import Path
 import numpy as np
 import torch
 
-REPO_MHR = Path(r"Q:\stb-assets\repos\MHR")
+ROOT = Path(__file__).resolve().parent.parent
+REPO_MHR = ROOT / "repos" / "MHR"
 if str(REPO_MHR) not in sys.path:
     sys.path.insert(0, str(REPO_MHR))
 
