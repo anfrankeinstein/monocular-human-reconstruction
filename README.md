@@ -164,7 +164,9 @@ envs/mhr/Scripts/python.exe scripts/v3_run_all.py --skip-sim --skip-tex --skip-s
 - **SAM 3D Body (DINOv3)** — Meta，权重受其各自许可约束，请勿再分发
 - **MediaPipe Selfie Segmenter / GPEN** — Google / ModelScope，按各自许可使用
 
-代码以 MIT 许可发布，详见 [`LICENSE`](LICENSE)。
+完整清单与获取方式见 [`NOTICE.md`](NOTICE.md)。
+
+代码以 MIT 许可发布，详见 [`LICENSE`](LICENSE)；第三方组件的许可与分发限制见 [`NOTICE.md`](NOTICE.md)。
 
 > **肖像权提示**：`work/q004-base/renders/` 下的渲染图包含由真人照片重建的面部形象。
 > 若仓库公开，请确认已获得被摄者同意；也可以删除该目录后再发布。
